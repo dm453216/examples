@@ -1,5 +1,7 @@
 # CS3560 - Example Project
 
+This README File is used to allow stutents to pratice pull request 
+
 Example project that uses Doxygen, Makefile, Catch2, Travis CI.
 
 This is a simple project that contain some of the tools used in the class. For example,
